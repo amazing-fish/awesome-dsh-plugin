@@ -1,5 +1,5 @@
-url: https://github.com/amazing-fish/dsh-sm-context-piano
-name: amazing-fish/dsh-sm-context-piano
+url: https://github.com/amazing-fish/dsh-piano-nav
+name: amazing-fish/dsh-piano-nav
 category: ui
 description:
   en: "Conversation navigation with full-history turns, collapsible process steps, final-result and structured question-and-answer keys, and pointer-following piano interaction."
